@@ -1,5 +1,4 @@
-# HR UI UX 
-Simple educational program for human resource management using JAVA and SQL Server 
+# HR UI UX Simple educational program for human resource management using JAVA and SQL Server 
 
 
 
